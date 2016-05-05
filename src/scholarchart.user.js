@@ -6,6 +6,7 @@
 // @include     http://scholar.google.com/*
 // @include     https://scholar.google.com/*
 // @version     1.0
+// @license     Creative Commons Attribution-NonCommercial 3.0; http://creativecommons.org/licenses/by-nc/3.0/
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 
 // @require     http://code.highcharts.com/highcharts.js
