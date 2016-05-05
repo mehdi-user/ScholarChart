@@ -48,7 +48,7 @@
     });
 
 
-    var yearLessArticleFound = false
+    var yearLessArticleFound = false;
     
      $(".gs_a").each(function(i , l) {
          
@@ -98,7 +98,7 @@
             "url_citation" : resultObjectCitationLink[i]
            }
         
-    }
+    };
     
     
 
