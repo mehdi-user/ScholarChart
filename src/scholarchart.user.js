@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        ScholarChart
 // @namespace   ScholarChartNameSpace
+// @description A charting userscript for Google Scholar distinguishing articles by the publication year and the number of citations
 // @include     http://scholar.google.ca/*
 // @include     https://scholar.google.ca/*
 // @include     http://scholar.google.com/*
