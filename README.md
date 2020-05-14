@@ -8,3 +8,5 @@ https://addons.mozilla.org/en-Us/firefox/addon/greasemonkey/
 
 and Chrome's TamperMonkey:
 https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+![ScholarChart Screenshot](images/scholarchart-image.png)
